@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CleanStreak</string>
+    <string name="widget_description">Tap a row to mark today clean</string>
+    <string name="add_habit">Add habit</string>
+    <string name="habit_name_hint">Habit name</string>
+    <string name="color_label">Color</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="today">Today</string>
+    <string name="empty_state_title">Track your first habit</string>
+    <string name="empty_state_body">Tap + to add something you want to stay clean from. Then tap its block each day you succeed — the block lights up and your streak grows.</string>
+    <string name="delete_habit_title">Delete habit?</string>
+    <string name="delete_habit_body">This removes the habit and its entire history. This cannot be undone.</string>
+    <string name="streak_pattern">%1$d-day streak · best %2$d</string>
+    <string name="widget_empty">Open CleanStreak to add habits</string>
+</resources>
